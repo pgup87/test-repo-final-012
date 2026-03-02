@@ -1,0 +1,20 @@
+.disclaimer {
+  font-size: 0.75rem;
+  color: #666;
+  line-height: 1.4;
+  border-top: 1px solid #ddd;
+  padding-top: 1.5rem;
+  margin-top: 3rem;
+}
+
+.disclaimer.is-scrollable .disclaimer-container {
+  max-height: 200px;
+  overflow-y: auto;
+  padding-right: 1rem;
+  border: 1px solid #eee;
+  padding: 1rem;
+}
+
+.disclaimer p {
+  margin-bottom: 0.5rem;
+}
