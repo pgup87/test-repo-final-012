@@ -1,0 +1,7 @@
+{
+  "purpose": "Switching between information states",
+  "data": [
+    ["For Caregivers", "Detailed info for caregivers."],
+    ["For HCPs", "Clinical data and trial results."]
+  ]
+}
